@@ -1,9 +1,8 @@
  
 <img align="right" width="300" src="./img/catcoding.gif" />
 
-### :smiley_cat: Hello
-<p> My name is Eric de Lima! I am Python Developer and Computer Science Student </p>
-
+### :smiley_cat: Hello!!!
+<p> My name is <b>Eric de Lima</b>. I am <b>Python Developer</b> and <b>Computer Science</b> Student.</p>
 
 ---
 ### :books: Skills and Tools:
@@ -13,11 +12,11 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/en/2.0.x/" alt="Flask" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35"/>
+<img src="./img/flask.png" width="35"/>
 </a>
 
 <a href="https://www.mysql.com/" alt="MySQL" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="35"/>
+<img src="./img/mysql.png" width="35"/>
 </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
@@ -46,7 +45,7 @@
 </a>
 
 <a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/>
+<img src="./img/bash.png" width="35"/>
 </a>
 
 
