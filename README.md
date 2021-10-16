@@ -41,6 +41,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
 </a>
 
+<a href="https://getbootstrap.com/" alt="Bootstrap" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
+</a>
+
 <a href="https://git-scm.com/" alt="Git" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </a>
@@ -84,9 +88,11 @@
 
   <p align="left">
   <a href="https://github.com/ericxlima/Hand_Gestures_LIBRAS">
-      <img width="29%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Hand_Gestures_LIBRAS&theme=react&bg_color=0D1117&hide_border=true" alt="Hand_Gestures_LIBRAS"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Hand_Gestures_LIBRAS&theme=react&bg_color=0D1117" alt="Hand_Gestures_LIBRAS"></a>
   <a href="https://github.com/ericxlima/Pandora_vs_UFPE">
-      <img width="29%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Pandora_vs_UFPE&theme=react&bg_color=0D1117&hide_border=true" alt="Pandora_vs_UFPE"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Pandora_vs_UFPE&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
+  <a href="https://github.com/ericxlima/Matrix_Processor">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Matrix_Processor&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
   </p>
 
  <p align="left">
@@ -101,10 +107,10 @@
   <br/>
   <p>
     <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ericxlima&count_private=true&show_icons=true&theme=github_dark" alt="Github Readme Stats" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ericxlima&&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Github Readme Stats" widht="250" height="180">
     </a>
     <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericxlima&theme=github_dark&layout=compact" alt="Top Languages" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericxlima&theme=github_dark&layout=compact&langs_count=16" alt="Top Languages" widht="250" height="180">
     </a>
   </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
