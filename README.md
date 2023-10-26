@@ -11,58 +11,48 @@
 <img align="right" width="300" src="./img/catcoding.gif" />
 
 ### :smiley_cat: Hello!!!
-<p> My name is <b>Eric de Lima</b>. I am <b>Python Developer</b> and <b>Computer Science</b> Student.</p>
+<p> My name is <b>Eric de Lima</b>. I am <b>Software Engineer</b> and BS Undergraduate.</p>
 
 ---
-### :books: Skills and Tools:
+### :books: Main skills and tools:
 
-<a href="https://www.python.org/" alt="Python" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-</a>
+- Back-End
 
-<a href="https://flask.palletsprojects.com/en/2.0.x/" alt="Flask" target="_blank">
-<img src="./img/flask.png" width="35"/>
-</a>
-
-<a href="https://www.mysql.com/" alt="MySQL" target="_blank">
-<img src="./img/mysql.png" width="35"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="HTML" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
-
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" alt="CSS" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
-</a>
-
-<a href="https://getbootstrap.com/" alt="Bootstrap" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35"/>
-</a>
-
-<a href="https://git-scm.com/" alt="Git" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-</a>
-
-<a href="https://code.visualstudio.com/" alt="VSCode" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
-</a>
-
-<a href="https://linuxfoundation.org/" alt="Linux" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="35"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/" alt="Bash" target="_blank">
-<img src="./img/bash.png" width="35"/>
-</a>
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![django_rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
+![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+
+- Front-End
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+- Web Servers & OP's
+  
+![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+- Mobile
+
+![ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
+
+- DB's
+
+![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### :reminder_ribbon: Contact:
 <p>
