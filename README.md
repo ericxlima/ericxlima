@@ -71,38 +71,9 @@
 
 </div>
 
-
-<details> 
-  <summary>📘 Some of my projects</summary>
-  <br/>
-
-  <p align="left">
-  <a href="https://github.com/ericxlima/Hand_Gestures_LIBRAS">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Hand_Gestures_LIBRAS&theme=react&bg_color=0D1117" alt="Hand_Gestures_LIBRAS"></a>
-  <a href="https://github.com/ericxlima/Pandora_vs_UFPE">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Pandora_vs_UFPE&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
-  <a href="https://github.com/ericxlima/Matrix_Processor">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ericxlima&repo=Matrix_Processor&theme=react&bg_color=0D1117" alt="Pandora_vs_UFPE"></a>
-  </p>
-
- <p align="left">
-  <a href="https://github.com/ericxlima?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-</details>
-
-
-<!-- Stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <p>
-    <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ericxlima&&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Github Readme Stats" widht="250" height="180">
-    </a>
-    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericxlima&theme=github_dark&layout=compact&langs_count=16" alt="Top Languages" widht="250" height="180">
-    </a>
-  </p>
+- Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericxlima&theme=github_dark&layout=compact&langs_count=16" alt="Top Languages" >
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
